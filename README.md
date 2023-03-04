@@ -5,7 +5,7 @@ This project focuses on Test Automation where i create the c# application on the
 ## Authentication
 The user will have to register manually and put the crediantials to the cloud UIpath. This will allow the UIpath application to use the crediantials to log in on its own to do the work. The UIpath application will log in automatically.
 
-Demo login details: Job@gmail.com Password123@
+
 
 ## References:
 Gupta, H. (2020) Read data from Excel, UiPath Community Forum. Available at: https://forum.uipath.com/t/read-data-from-excel/199633 (Accessed: October 27, 2022). 
